@@ -1,0 +1,1001 @@
+id,unit,appointmentDate,appointmentTime,numberOfSlots
+1,3239 Erie Parkway,9/21/2022,16:59,62
+2,36 Pankratz Pass,9/28/2022,16:22,63
+3,961 Northridge Center,9/24/2022,5:58,72
+4,4663 Johnson Terrace,9/25/2022,15:16,92
+5,0 Victoria Point,9/25/2022,21:36,11
+6,454 Lighthouse Bay Alley,9/27/2022,13:53,98
+7,84 Meadow Vale Terrace,9/25/2022,4:58,58
+8,50226 Northland Place,9/25/2022,0:54,83
+9,69 Ridgeway Terrace,9/26/2022,10:46,2
+10,361 Boyd Center,9/23/2022,11:37,59
+11,0677 North Parkway,9/25/2022,18:30,62
+12,09168 Hauk Park,9/23/2022,4:58,13
+13,6 Raven Pass,9/26/2022,0:51,17
+14,709 Shopko Point,9/29/2022,11:39,77
+15,61 Eagan Drive,9/25/2022,22:44,52
+16,62 Claremont Pass,9/26/2022,4:43,77
+17,1936 Maple Way,9/21/2022,10:55,37
+18,80 Weeping Birch Street,9/23/2022,19:24,80
+19,324 Muir Avenue,9/29/2022,7:57,92
+20,6472 Schiller Street,9/28/2022,6:55,53
+21,312 Kropf Street,9/24/2022,16:09,19
+22,97388 Glacier Hill Crossing,9/24/2022,6:53,80
+23,041 Montana Drive,9/22/2022,6:18,50
+24,74 Lerdahl Hill,9/25/2022,11:38,14
+25,95588 Transport Park,9/26/2022,0:15,84
+26,6 North Circle,9/28/2022,10:36,26
+27,202 Rockefeller Road,9/22/2022,4:57,17
+28,1428 Logan Avenue,9/24/2022,22:10,56
+29,68303 Di Loreto Park,9/23/2022,4:07,34
+30,927 Drewry Hill,9/29/2022,1:34,10
+31,272 Raven Point,9/23/2022,6:05,97
+32,5 Pawling Court,9/29/2022,14:26,61
+33,7 Becker Hill,9/27/2022,8:41,27
+34,196 Harbort Parkway,9/23/2022,3:05,55
+35,85 Vahlen Road,9/21/2022,22:11,67
+36,068 Bobwhite Crossing,9/29/2022,11:17,38
+37,656 Monica Pass,9/21/2022,6:57,21
+38,17 Washington Street,9/28/2022,16:06,88
+39,5536 Talisman Terrace,9/22/2022,23:47,77
+40,0680 Anthes Circle,9/28/2022,1:39,62
+41,56255 Reinke Crossing,9/29/2022,22:45,17
+42,04 Harbort Trail,9/25/2022,13:42,50
+43,78 Utah Pass,9/26/2022,20:55,56
+44,509 Dottie Trail,9/22/2022,23:37,40
+45,9426 Eastwood Street,9/27/2022,4:54,49
+46,4866 Raven Crossing,9/28/2022,8:17,4
+47,8230 Prairieview Alley,9/29/2022,9:53,59
+48,1157 Pankratz Alley,9/27/2022,10:51,65
+49,0687 Artisan Plaza,9/22/2022,19:05,90
+50,78 Ilene Trail,9/25/2022,14:36,50
+51,06 Welch Park,9/26/2022,9:42,54
+52,5321 Farmco Park,9/27/2022,17:39,94
+53,2896 La Follette Park,9/24/2022,6:47,87
+54,74 Almo Road,9/27/2022,10:38,19
+55,995 Corry Circle,9/22/2022,14:02,95
+56,592 Northfield Alley,9/23/2022,1:59,52
+57,12 Sunbrook Trail,9/27/2022,8:43,11
+58,393 Cherokee Trail,9/23/2022,15:23,93
+59,490 Fieldstone Circle,9/24/2022,21:59,13
+60,91773 Sloan Plaza,9/21/2022,3:29,29
+61,212 Elka Crossing,9/28/2022,4:27,21
+62,3023 Vernon Court,9/26/2022,18:17,79
+63,486 Ridgeway Park,9/26/2022,21:40,76
+64,3387 Colorado Trail,9/29/2022,9:14,100
+65,254 Jackson Junction,9/26/2022,8:58,47
+66,18 Stone Corner Place,9/26/2022,14:49,13
+67,322 Springview Circle,9/27/2022,8:18,14
+68,01066 Westridge Circle,9/29/2022,0:07,53
+69,66 Corry Court,9/23/2022,8:05,13
+70,773 Spohn Court,9/27/2022,12:03,29
+71,1 Namekagon Parkway,9/26/2022,5:55,16
+72,7 Dapin Place,9/21/2022,13:32,72
+73,9 Chinook Park,9/25/2022,6:18,35
+74,3335 Laurel Street,9/29/2022,3:28,21
+75,968 Towne Avenue,9/28/2022,23:55,61
+76,26 Kinsman Circle,9/27/2022,8:11,69
+77,6651 Scoville Lane,9/25/2022,2:31,34
+78,82 Eggendart Way,9/22/2022,21:04,26
+79,054 Packers Street,9/25/2022,16:04,26
+80,494 Fieldstone Plaza,9/21/2022,16:20,73
+81,15122 Johnson Way,9/21/2022,15:41,79
+82,2 Northport Road,9/29/2022,15:35,17
+83,10164 Oxford Point,9/28/2022,1:45,98
+84,3 Hooker Junction,9/27/2022,16:19,15
+85,12 Mcbride Hill,9/27/2022,18:48,14
+86,76 Meadow Valley Center,9/26/2022,13:37,94
+87,05 Glendale Circle,9/24/2022,19:35,54
+88,5998 Linden Lane,9/23/2022,16:51,80
+89,7 Thompson Pass,9/29/2022,6:07,36
+90,91 Cascade Avenue,9/24/2022,8:26,14
+91,220 Rusk Hill,9/23/2022,2:46,33
+92,13 Anderson Street,9/23/2022,17:28,5
+93,43 John Wall Road,9/24/2022,4:34,71
+94,340 Bunker Hill Drive,9/27/2022,0:18,47
+95,03884 Lakewood Center,9/29/2022,16:46,5
+96,12 Messerschmidt Hill,9/22/2022,8:37,30
+97,7 Hauk Terrace,9/22/2022,6:14,18
+98,90002 Logan Way,9/27/2022,5:06,26
+99,92720 Crownhardt Plaza,9/28/2022,15:05,49
+100,75192 Jana Junction,9/28/2022,10:16,73
+101,1922 Messerschmidt Pass,9/28/2022,19:25,93
+102,3713 Summit Point,9/24/2022,18:09,92
+103,23 Carberry Way,9/26/2022,0:00,62
+104,39834 Farragut Way,9/23/2022,23:01,40
+105,098 Delaware Crossing,9/24/2022,3:44,38
+106,8326 Pankratz Park,9/29/2022,19:24,44
+107,8050 Novick Park,9/21/2022,10:28,79
+108,823 Dayton Hill,9/22/2022,7:45,49
+109,6256 Sage Trail,9/21/2022,17:01,10
+110,7594 Chinook Center,9/27/2022,3:41,6
+111,2490 Oak Circle,9/28/2022,4:14,88
+112,76425 Ilene Point,9/28/2022,16:20,93
+113,404 South Terrace,9/22/2022,18:11,67
+114,44508 Anzinger Avenue,9/26/2022,3:20,91
+115,7428 Cardinal Court,9/26/2022,7:22,51
+116,0690 Jenifer Circle,9/22/2022,0:21,52
+117,00 Swallow Parkway,9/24/2022,16:32,31
+118,58010 Jenna Road,9/23/2022,12:56,100
+119,854 Drewry Avenue,9/23/2022,0:08,47
+120,4 Burning Wood Junction,9/29/2022,22:23,89
+121,1 Everett Trail,9/24/2022,4:27,61
+122,05170 Cody Street,9/22/2022,14:53,4
+123,6 Huxley Avenue,9/29/2022,12:20,59
+124,2276 Delaware Lane,9/26/2022,1:38,43
+125,0 Meadow Valley Avenue,9/22/2022,10:18,47
+126,0 Vernon Circle,9/27/2022,0:49,42
+127,79 Talisman Pass,9/27/2022,22:56,47
+128,8 Manitowish Court,9/28/2022,11:53,4
+129,1 Morning Alley,9/25/2022,8:09,80
+130,614 Oak Street,9/29/2022,21:00,86
+131,494 David Alley,9/29/2022,18:04,90
+132,40 Kenwood Pass,9/23/2022,0:37,28
+133,24 6th Crossing,9/28/2022,1:17,22
+134,15 Ilene Junction,9/29/2022,18:31,21
+135,73419 Clyde Gallagher Hill,9/23/2022,3:49,64
+136,11821 Manley Center,9/28/2022,11:41,80
+137,1 Cody Court,9/25/2022,18:50,72
+138,043 Transport Way,9/23/2022,4:06,57
+139,69 Schmedeman Road,9/25/2022,20:12,60
+140,12 Mallory Hill,9/21/2022,12:34,92
+141,53024 Transport Park,9/26/2022,23:00,59
+142,3 Logan Point,9/29/2022,14:19,44
+143,97177 Bunting Park,9/27/2022,18:21,33
+144,3 Mariners Cove Center,9/22/2022,12:42,77
+145,9285 Nobel Circle,9/21/2022,14:26,62
+146,647 Kennedy Terrace,9/26/2022,16:29,85
+147,75 Buhler Terrace,9/21/2022,17:44,48
+148,92 Rieder Crossing,9/23/2022,5:17,23
+149,9 Hansons Pass,9/26/2022,16:35,98
+150,2639 Eggendart Point,9/21/2022,4:42,71
+151,3 Gerald Crossing,9/21/2022,1:45,35
+152,86 Hovde Parkway,9/28/2022,23:07,25
+153,640 Onsgard Pass,9/29/2022,23:49,3
+154,251 Utah Center,9/24/2022,15:47,55
+155,16491 Bellgrove Crossing,9/25/2022,20:31,40
+156,142 Lake View Court,9/24/2022,0:09,26
+157,20640 Thackeray Circle,9/27/2022,16:53,9
+158,71612 Forster Terrace,9/24/2022,4:44,44
+159,09 Eastlawn Park,9/24/2022,20:52,81
+160,10 Southridge Court,9/24/2022,20:50,4
+161,453 Brown Junction,9/25/2022,21:33,32
+162,32 Rieder Trail,9/23/2022,20:43,77
+163,0 Bellgrove Drive,9/25/2022,23:19,71
+164,81 Dottie Center,9/26/2022,9:43,71
+165,3 Porter Way,9/24/2022,20:57,29
+166,029 Forest Run Crossing,9/26/2022,1:17,94
+167,4440 Holmberg Road,9/22/2022,4:09,50
+168,54114 Dexter Plaza,9/23/2022,20:58,63
+169,0 Bellgrove Place,9/29/2022,3:12,54
+170,626 Schiller Circle,9/21/2022,14:27,84
+171,666 Namekagon Drive,9/26/2022,17:57,83
+172,47 International Street,9/29/2022,14:41,77
+173,2769 Upham Avenue,9/22/2022,7:26,77
+174,8 Corben Street,9/26/2022,18:35,21
+175,2 Melvin Park,9/27/2022,13:44,87
+176,4 Towne Court,9/25/2022,22:37,89
+177,28478 Fallview Crossing,9/29/2022,12:15,32
+178,0728 Iowa Park,9/21/2022,16:41,100
+179,93444 Hollow Ridge Avenue,9/26/2022,9:25,41
+180,29 Mandrake Center,9/25/2022,0:55,46
+181,0 Londonderry Crossing,9/25/2022,2:18,57
+182,0898 Independence Point,9/24/2022,15:51,63
+183,61430 Delladonna Center,9/21/2022,13:26,53
+184,57 Anzinger Trail,9/21/2022,6:22,20
+185,4 Stang Road,9/27/2022,9:31,98
+186,15495 Tennyson Park,9/26/2022,15:41,48
+187,01 Dahle Way,9/28/2022,1:35,94
+188,038 Pankratz Avenue,9/29/2022,21:21,22
+189,746 Troy Road,9/26/2022,1:34,100
+190,9705 Ilene Pass,9/22/2022,10:21,66
+191,0159 Troy Crossing,9/24/2022,6:34,32
+192,7 Carberry Plaza,9/21/2022,18:14,66
+193,7383 Bayside Junction,9/28/2022,4:51,98
+194,40229 Surrey Park,9/23/2022,1:50,89
+195,31928 Dahle Point,9/28/2022,9:58,51
+196,56 Tennessee Court,9/23/2022,14:01,85
+197,833 Victoria Way,9/21/2022,2:06,51
+198,73005 Victoria Plaza,9/21/2022,9:20,1
+199,98 Walton Crossing,9/22/2022,3:03,22
+200,328 Schiller Place,9/24/2022,3:11,6
+201,780 Swallow Center,9/24/2022,15:55,80
+202,95 Garrison Court,9/25/2022,21:11,60
+203,351 Badeau Way,9/24/2022,11:30,26
+204,08 Golf Lane,9/22/2022,5:43,6
+205,2754 Forster Point,9/21/2022,5:26,92
+206,51 Burrows Court,9/22/2022,18:56,54
+207,7074 Sullivan Drive,9/25/2022,22:53,79
+208,3 Swallow Way,9/29/2022,2:21,88
+209,6666 Clemons Road,9/29/2022,20:50,8
+210,64 Cascade Parkway,9/29/2022,18:24,72
+211,299 Ramsey Lane,9/29/2022,1:11,11
+212,7 Ridgeview Junction,9/21/2022,12:47,86
+213,3509 Grayhawk Street,9/21/2022,14:19,32
+214,5735 Veith Drive,9/27/2022,12:43,27
+215,376 Buhler Circle,9/21/2022,23:11,41
+216,8364 Brickson Park Terrace,9/23/2022,17:57,97
+217,6859 Jay Terrace,9/25/2022,7:53,64
+218,51 Killdeer Trail,9/22/2022,18:35,51
+219,02 Sutteridge Park,9/24/2022,10:15,88
+220,22 6th Avenue,9/24/2022,20:53,61
+221,6046 Everett Place,9/26/2022,8:07,57
+222,5725 Iowa Park,9/21/2022,21:42,44
+223,6 Homewood Avenue,9/23/2022,17:03,90
+224,83349 Morningstar Hill,9/29/2022,17:58,59
+225,93948 Blaine Street,9/25/2022,16:49,4
+226,2237 Hagan Trail,9/21/2022,22:19,37
+227,4 Stone Corner Avenue,9/22/2022,11:16,13
+228,786 Boyd Park,9/21/2022,2:39,78
+229,101 Summerview Way,9/22/2022,6:30,97
+230,31 Tony Alley,9/26/2022,14:49,16
+231,9 Lighthouse Bay Point,9/25/2022,5:17,63
+232,776 Jenifer Court,9/27/2022,11:05,3
+233,5559 Barnett Road,9/27/2022,22:50,78
+234,2976 Weeping Birch Plaza,9/22/2022,17:08,55
+235,0546 Hauk Place,9/25/2022,12:31,72
+236,028 Emmet Court,9/22/2022,3:53,58
+237,5880 Gale Trail,9/22/2022,8:51,10
+238,3356 Claremont Junction,9/25/2022,1:18,30
+239,74 Tennyson Terrace,9/23/2022,5:46,48
+240,8 Haas Street,9/22/2022,13:17,67
+241,61882 Logan Alley,9/29/2022,16:34,92
+242,1 Crest Line Hill,9/22/2022,9:07,57
+243,3651 Michigan Street,9/25/2022,5:52,51
+244,60901 Ridgeway Pass,9/27/2022,13:17,44
+245,8224 Arapahoe Center,9/24/2022,12:00,22
+246,9126 Cherokee Drive,9/23/2022,1:27,49
+247,81 Fair Oaks Lane,9/27/2022,20:27,1
+248,18180 Buena Vista Trail,9/28/2022,1:50,8
+249,82 John Wall Junction,9/29/2022,18:15,61
+250,882 Twin Pines Avenue,9/24/2022,9:27,23
+251,22319 Maple Avenue,9/23/2022,13:58,59
+252,04 Utah Park,9/28/2022,11:20,27
+253,88 Roth Crossing,9/24/2022,22:55,90
+254,6 Spaight Plaza,9/22/2022,15:31,23
+255,07 Scoville Way,9/22/2022,17:50,14
+256,510 Loomis Park,9/27/2022,16:17,32
+257,8 Caliangt Alley,9/28/2022,19:57,89
+258,0229 Logan Parkway,9/24/2022,20:30,21
+259,18959 North Point,9/21/2022,4:03,42
+260,48776 Fairview Junction,9/22/2022,12:18,55
+261,521 Vidon Terrace,9/22/2022,10:24,79
+262,464 Oxford Crossing,9/25/2022,7:19,96
+263,828 Ryan Lane,9/28/2022,10:57,11
+264,25942 Crowley Court,9/26/2022,11:51,91
+265,3 Buell Place,9/27/2022,20:56,64
+266,6 Fieldstone Park,9/29/2022,8:10,43
+267,30 Springs Avenue,9/22/2022,15:03,80
+268,2 Aberg Place,9/26/2022,11:19,30
+269,03 Hazelcrest Drive,9/23/2022,21:55,10
+270,2566 Nobel Pass,9/21/2022,11:46,95
+271,362 Helena Drive,9/25/2022,20:32,12
+272,60412 Hoard Avenue,9/29/2022,17:03,9
+273,2427 Brickson Park Hill,9/29/2022,4:06,22
+274,7 Troy Park,9/21/2022,18:38,45
+275,23444 Mendota Circle,9/26/2022,1:27,43
+276,539 Schiller Circle,9/23/2022,17:54,87
+277,73 Hermina Trail,9/28/2022,20:55,68
+278,741 Arizona Street,9/23/2022,16:37,44
+279,0 Orin Avenue,9/29/2022,12:18,35
+280,9 Everett Court,9/23/2022,6:39,73
+281,7 Stuart Trail,9/28/2022,12:45,32
+282,706 Springs Place,9/26/2022,12:14,73
+283,37215 Monterey Park,9/21/2022,4:57,2
+284,3412 Dennis Way,9/25/2022,2:42,92
+285,12659 Moland Plaza,9/24/2022,10:47,34
+286,34 Saint Paul Lane,9/27/2022,8:44,19
+287,4 Lien Court,9/24/2022,2:47,97
+288,1858 Forster Point,9/27/2022,1:54,42
+289,5 Clove Parkway,9/22/2022,11:31,26
+290,3 Fairview Place,9/25/2022,10:31,27
+291,04 Chive Drive,9/28/2022,9:47,39
+292,9 Heffernan Trail,9/27/2022,5:44,34
+293,387 6th Lane,9/27/2022,12:32,77
+294,8 Jay Alley,9/21/2022,11:27,26
+295,36323 Buhler Trail,9/21/2022,7:44,32
+296,5 Jana Drive,9/24/2022,4:30,36
+297,491 Darwin Place,9/27/2022,14:35,91
+298,05677 Barnett Place,9/23/2022,5:34,80
+299,30387 Raven Pass,9/21/2022,2:03,47
+300,35294 Daystar Circle,9/22/2022,5:05,70
+301,22755 Cottonwood Way,9/24/2022,13:15,7
+302,6 Nobel Way,9/22/2022,11:09,13
+303,645 American Circle,9/25/2022,23:26,62
+304,36 Logan Park,9/28/2022,10:27,44
+305,9 Westend Point,9/27/2022,3:22,19
+306,5 Harper Terrace,9/27/2022,23:21,22
+307,1478 Prairieview Place,9/29/2022,22:19,44
+308,864 West Crossing,9/26/2022,11:21,86
+309,42818 Golden Leaf Center,9/21/2022,2:40,53
+310,145 Caliangt Way,9/23/2022,18:26,57
+311,218 Raven Crossing,9/23/2022,1:04,11
+312,136 Rusk Avenue,9/29/2022,20:01,99
+313,1 Anniversary Park,9/25/2022,12:41,5
+314,90 Sauthoff Hill,9/21/2022,12:50,16
+315,78 Scoville Way,9/22/2022,19:37,34
+316,6791 Kennedy Parkway,9/22/2022,9:37,33
+317,1 Onsgard Alley,9/23/2022,6:59,88
+318,468 Northland Place,9/25/2022,0:03,35
+319,09 New Castle Center,9/26/2022,4:32,74
+320,73934 Dovetail Plaza,9/25/2022,7:36,22
+321,37221 La Follette Trail,9/29/2022,6:17,98
+322,30084 Magdeline Place,9/29/2022,6:23,70
+323,5 Northfield Center,9/21/2022,5:54,4
+324,9527 Cordelia Avenue,9/25/2022,8:59,91
+325,111 Summer Ridge Plaza,9/24/2022,22:31,54
+326,1919 Express Pass,9/22/2022,0:08,61
+327,79 Eggendart Junction,9/24/2022,21:24,2
+328,1102 Briar Crest Street,9/29/2022,13:33,85
+329,7 Hoffman Park,9/23/2022,4:57,85
+330,992 Sommers Plaza,9/26/2022,2:12,83
+331,56330 Corry Hill,9/29/2022,4:36,27
+332,03 Springs Crossing,9/25/2022,10:55,64
+333,7070 Prairie Rose Terrace,9/23/2022,4:05,98
+334,3150 Havey Junction,9/28/2022,14:33,75
+335,93731 Shoshone Alley,9/28/2022,12:48,87
+336,18907 Sloan Place,9/24/2022,21:48,28
+337,61 Dixon Hill,9/23/2022,18:19,10
+338,5 Kinsman Point,9/24/2022,13:23,50
+339,59982 Commercial Parkway,9/24/2022,7:08,41
+340,7 Mockingbird Center,9/25/2022,14:10,85
+341,3 Graceland Place,9/22/2022,22:01,18
+342,32002 Dapin Hill,9/26/2022,22:16,43
+343,19804 Carpenter Terrace,9/25/2022,14:41,18
+344,993 Hudson Hill,9/28/2022,16:26,5
+345,1 Morningstar Circle,9/27/2022,19:00,55
+346,0957 Burrows Junction,9/26/2022,19:05,6
+347,5 Monument Place,9/26/2022,10:51,10
+348,0498 Dixon Junction,9/23/2022,8:38,65
+349,675 Bayside Pass,9/21/2022,1:18,48
+350,1 Stang Court,9/27/2022,10:42,36
+351,73472 Stephen Lane,9/24/2022,22:46,92
+352,71667 Sunbrook Court,9/26/2022,17:08,21
+353,98845 Canary Avenue,9/26/2022,22:13,50
+354,7 Marcy Street,9/21/2022,18:59,9
+355,73 Dakota Trail,9/22/2022,12:40,53
+356,0 Golf Course Crossing,9/25/2022,23:24,3
+357,0848 Shelley Drive,9/25/2022,6:38,24
+358,50 Fulton Drive,9/25/2022,10:19,23
+359,826 Reinke Court,9/25/2022,6:34,65
+360,1820 Comanche Hill,9/29/2022,11:00,7
+361,24 Parkside Park,9/24/2022,16:49,76
+362,3 Johnson Junction,9/22/2022,23:04,11
+363,55886 Lawn Circle,9/26/2022,12:35,33
+364,0 Lakewood Gardens Junction,9/22/2022,14:33,42
+365,1 Butterfield Court,9/28/2022,0:45,34
+366,9119 Golden Leaf Court,9/28/2022,21:04,45
+367,9 Sachtjen Plaza,9/28/2022,22:25,85
+368,9 Bellgrove Way,9/28/2022,17:34,17
+369,38936 Corben Point,9/21/2022,14:07,95
+370,8015 Myrtle Court,9/21/2022,13:06,16
+371,26 Quincy Pass,9/24/2022,0:59,35
+372,4077 Utah Parkway,9/24/2022,20:35,41
+373,64 Center Hill,9/28/2022,14:28,71
+374,0 Upham Lane,9/26/2022,19:58,59
+375,8002 Trailsway Place,9/22/2022,18:27,55
+376,2 Springs Hill,9/22/2022,13:21,2
+377,997 Maple Junction,9/21/2022,12:08,79
+378,138 Loeprich Center,9/24/2022,5:59,28
+379,02 School Point,9/29/2022,11:10,59
+380,9 Prairie Rose Terrace,9/25/2022,17:08,86
+381,74 Hagan Park,9/21/2022,0:41,20
+382,7 West Center,9/25/2022,2:34,55
+383,5403 6th Trail,9/28/2022,20:50,59
+384,486 Lighthouse Bay Avenue,9/25/2022,1:20,65
+385,38729 Bluestem Pass,9/26/2022,15:12,62
+386,36 Red Cloud Park,9/24/2022,20:04,33
+387,57 Superior Plaza,9/26/2022,12:05,32
+388,6 Northridge Point,9/21/2022,7:47,86
+389,885 Fieldstone Terrace,9/27/2022,11:55,42
+390,31097 Rutledge Terrace,9/25/2022,16:35,43
+391,35 Wayridge Hill,9/21/2022,20:35,41
+392,2 Mosinee Place,9/27/2022,1:08,44
+393,78 Riverside Court,9/29/2022,3:43,75
+394,5370 Troy Plaza,9/21/2022,5:51,49
+395,73797 Anthes Plaza,9/24/2022,14:57,9
+396,1 Cordelia Park,9/22/2022,22:57,86
+397,6 Atwood Terrace,9/21/2022,2:48,55
+398,22270 Quincy Drive,9/25/2022,22:56,7
+399,95835 Wayridge Street,9/26/2022,12:00,19
+400,52312 Homewood Alley,9/22/2022,21:26,8
+401,44337 Elka Lane,9/27/2022,12:42,28
+402,248 Petterle Point,9/24/2022,6:29,64
+403,7101 Tony Avenue,9/26/2022,2:08,38
+404,2 Holy Cross Point,9/29/2022,0:41,91
+405,58 Everett Way,9/25/2022,1:49,65
+406,3 Huxley Point,9/28/2022,2:00,31
+407,436 Service Lane,9/21/2022,15:53,31
+408,4 Birchwood Plaza,9/27/2022,5:48,56
+409,18 3rd Circle,9/28/2022,21:00,33
+410,4 Mosinee Terrace,9/21/2022,11:14,11
+411,1778 Manley Terrace,9/23/2022,13:35,11
+412,82 Mesta Plaza,9/29/2022,19:24,44
+413,514 West Point,9/21/2022,15:28,65
+414,055 Brown Center,9/29/2022,14:50,73
+415,522 Anzinger Parkway,9/28/2022,9:11,75
+416,7590 Darwin Pass,9/21/2022,5:57,74
+417,0 Spenser Avenue,9/25/2022,18:35,31
+418,62047 Longview Court,9/21/2022,10:45,95
+419,13 Mayer Drive,9/29/2022,4:22,11
+420,636 Redwing Trail,9/22/2022,22:58,88
+421,5 Farragut Parkway,9/26/2022,19:15,100
+422,6 Holmberg Terrace,9/26/2022,16:51,9
+423,9 Monument Point,9/27/2022,16:56,33
+424,351 Dovetail Way,9/24/2022,20:36,61
+425,468 Kedzie Plaza,9/24/2022,11:53,92
+426,38 Melby Park,9/29/2022,2:54,5
+427,9869 Armistice Plaza,9/21/2022,8:13,41
+428,21789 Pennsylvania Trail,9/22/2022,15:55,44
+429,81696 Derek Avenue,9/26/2022,13:14,74
+430,11 Morrow Center,9/26/2022,9:51,70
+431,113 Autumn Leaf Avenue,9/23/2022,14:35,64
+432,7 Shelley Center,9/29/2022,3:21,76
+433,76 Arizona Street,9/21/2022,11:05,79
+434,2 Vidon Point,9/24/2022,12:37,20
+435,9 Pearson Alley,9/23/2022,12:02,12
+436,7611 Holmberg Drive,9/25/2022,12:19,7
+437,030 Sugar Hill,9/29/2022,11:22,71
+438,28 Schmedeman Park,9/28/2022,9:18,21
+439,7819 Harper Lane,9/29/2022,10:49,25
+440,61304 Bellgrove Court,9/21/2022,6:55,85
+441,3165 Pine View Drive,9/21/2022,11:45,100
+442,1 Luster Court,9/28/2022,22:23,68
+443,744 Homewood Junction,9/24/2022,3:45,54
+444,6 Annamark Pass,9/26/2022,8:00,36
+445,1576 Pierstorff Parkway,9/27/2022,4:14,9
+446,9 Anhalt Alley,9/22/2022,19:48,94
+447,7 Tennyson Hill,9/26/2022,11:55,46
+448,0 Sunfield Terrace,9/29/2022,7:07,90
+449,301 Gateway Pass,9/25/2022,13:43,81
+450,97807 Fair Oaks Terrace,9/24/2022,20:08,40
+451,1 Lake View Park,9/25/2022,6:50,40
+452,27583 Veith Plaza,9/23/2022,22:13,52
+453,520 Buena Vista Plaza,9/21/2022,17:01,84
+454,192 Lake View Alley,9/28/2022,19:31,8
+455,994 Hovde Street,9/24/2022,18:58,44
+456,24618 Sullivan Way,9/24/2022,22:32,56
+457,66248 Elka Park,9/25/2022,0:23,22
+458,58994 Gateway Parkway,9/29/2022,0:56,20
+459,054 Katie Crossing,9/22/2022,1:03,61
+460,0 Bartelt Terrace,9/26/2022,11:24,26
+461,54 Anderson Drive,9/22/2022,2:20,70
+462,54691 Eagan Point,9/29/2022,22:45,93
+463,85668 Havey Place,9/26/2022,15:29,26
+464,8149 Maywood Avenue,9/23/2022,17:37,44
+465,9913 Calypso Avenue,9/26/2022,3:09,79
+466,2 Sullivan Trail,9/24/2022,15:45,13
+467,1 Grayhawk Drive,9/22/2022,16:12,89
+468,84 Moulton Center,9/27/2022,13:28,29
+469,942 Donald Road,9/26/2022,11:05,56
+470,74 Autumn Leaf Hill,9/24/2022,18:25,15
+471,62935 Maple Parkway,9/27/2022,16:10,82
+472,628 Warbler Road,9/25/2022,17:19,32
+473,1 Hovde Junction,9/24/2022,6:36,67
+474,91 Grover Alley,9/24/2022,16:18,27
+475,758 Huxley Crossing,9/28/2022,15:14,18
+476,77108 Southridge Junction,9/29/2022,7:23,8
+477,1 Rusk Parkway,9/26/2022,21:37,6
+478,31505 Elka Drive,9/23/2022,14:23,89
+479,16 Vera Parkway,9/27/2022,7:56,35
+480,3 Iowa Drive,9/26/2022,8:34,56
+481,3228 Sloan Terrace,9/23/2022,13:00,40
+482,6 Washington Circle,9/28/2022,1:06,38
+483,0 Heath Center,9/21/2022,0:38,26
+484,2 Tony Street,9/22/2022,1:05,87
+485,77 Florence Junction,9/23/2022,18:02,45
+486,825 Morning Way,9/27/2022,21:02,15
+487,217 Grayhawk Road,9/25/2022,7:43,79
+488,51 Charing Cross Trail,9/23/2022,18:42,56
+489,07 Waubesa Place,9/29/2022,8:18,52
+490,5939 Paget Alley,9/28/2022,12:11,3
+491,1 Kipling Lane,9/21/2022,15:28,33
+492,11 Sage Drive,9/26/2022,17:12,11
+493,0199 Oriole Place,9/24/2022,23:16,7
+494,7 Canary Lane,9/23/2022,14:28,45
+495,5681 Kensington Plaza,9/24/2022,0:33,74
+496,27 Cambridge Terrace,9/27/2022,14:51,13
+497,077 Roth Circle,9/24/2022,9:41,26
+498,68031 Springview Terrace,9/26/2022,19:31,51
+499,4 Loftsgordon Court,9/28/2022,2:45,97
+500,42001 Monica Court,9/24/2022,18:36,11
+501,94263 Talmadge Way,9/24/2022,16:09,19
+502,91503 Anniversary Trail,9/25/2022,14:47,30
+503,854 Merrick Park,9/26/2022,6:45,75
+504,911 Cascade Drive,9/22/2022,6:15,59
+505,30 Forest Dale Circle,9/23/2022,22:51,24
+506,76180 Mccormick Trail,9/27/2022,14:04,54
+507,3 Lakewood Gardens Park,9/25/2022,16:10,37
+508,900 Hollow Ridge Trail,9/23/2022,23:06,43
+509,26040 Farragut Lane,9/27/2022,11:59,56
+510,797 Lakewood Gardens Avenue,9/24/2022,15:28,77
+511,60 Eggendart Park,9/29/2022,13:03,49
+512,2 Walton Hill,9/22/2022,18:55,58
+513,2 Twin Pines Crossing,9/29/2022,17:54,65
+514,847 Tomscot Parkway,9/28/2022,12:11,11
+515,09152 Hauk Street,9/22/2022,13:09,42
+516,231 Loftsgordon Street,9/21/2022,10:07,99
+517,5747 South Lane,9/21/2022,10:53,34
+518,7572 Valley Edge Junction,9/21/2022,4:06,28
+519,2614 Porter Lane,9/27/2022,17:25,10
+520,88998 7th Drive,9/27/2022,5:15,70
+521,0798 Troy Road,9/23/2022,1:20,46
+522,5409 Riverside Terrace,9/25/2022,6:36,57
+523,8 East Center,9/26/2022,11:47,75
+524,966 Holmberg Lane,9/24/2022,10:17,100
+525,96 Waxwing Way,9/27/2022,8:07,91
+526,05206 Farwell Circle,9/28/2022,20:47,33
+527,67 Longview Parkway,9/26/2022,4:06,52
+528,2 Esker Crossing,9/24/2022,12:06,46
+529,2289 Hermina Alley,9/24/2022,20:22,30
+530,80988 Dottie Road,9/26/2022,19:35,18
+531,1 Elka Pass,9/26/2022,5:26,69
+532,40 Autumn Leaf Drive,9/25/2022,3:18,84
+533,84125 Oneill Plaza,9/21/2022,11:56,40
+534,47 Merry Terrace,9/21/2022,6:23,59
+535,9 Canary Court,9/23/2022,17:14,62
+536,9 Graceland Avenue,9/21/2022,16:29,18
+537,10 Becker Plaza,9/29/2022,17:54,2
+538,35598 Riverside Court,9/27/2022,20:46,18
+539,41 Annamark Hill,9/28/2022,19:06,40
+540,25 Bunker Hill Pass,9/27/2022,8:53,64
+541,0543 Ridgeway Parkway,9/27/2022,22:13,36
+542,37722 Fairview Avenue,9/22/2022,22:05,59
+543,4313 7th Center,9/21/2022,8:01,21
+544,3176 Esker Way,9/27/2022,19:34,75
+545,92 Union Avenue,9/22/2022,18:35,16
+546,38 Warrior Alley,9/26/2022,23:55,57
+547,40 Lyons Alley,9/27/2022,2:01,84
+548,5 Delladonna Avenue,9/22/2022,16:19,30
+549,6 Crownhardt Road,9/24/2022,0:02,5
+550,821 Transport Terrace,9/27/2022,1:01,54
+551,63 Mendota Avenue,9/24/2022,8:58,56
+552,22 Knutson Way,9/27/2022,5:53,51
+553,5266 Miller Crossing,9/29/2022,19:45,47
+554,21 Talisman Pass,9/21/2022,9:40,54
+555,13898 Meadow Ridge Plaza,9/24/2022,11:22,23
+556,6 Gina Plaza,9/25/2022,15:20,21
+557,1 Old Shore Lane,9/24/2022,3:38,57
+558,31422 Dottie Drive,9/21/2022,8:00,57
+559,4 Summerview Lane,9/29/2022,16:46,44
+560,4022 Novick Trail,9/26/2022,15:03,9
+561,8 Old Gate Circle,9/29/2022,15:44,52
+562,09296 Spenser Court,9/22/2022,10:35,69
+563,1 Gulseth Avenue,9/26/2022,18:26,59
+564,3 Rowland Parkway,9/29/2022,18:19,78
+565,8840 Ridge Oak Terrace,9/23/2022,7:09,4
+566,5 Carpenter Drive,9/24/2022,14:01,79
+567,85 Dwight Road,9/24/2022,4:04,38
+568,30 Scofield Court,9/28/2022,21:35,54
+569,22 Hooker Parkway,9/24/2022,10:27,3
+570,27945 Warbler Hill,9/26/2022,6:44,57
+571,9059 Charing Cross Way,9/28/2022,17:45,82
+572,72112 Schlimgen Trail,9/29/2022,23:15,76
+573,4 Memorial Point,9/21/2022,6:48,73
+574,438 Little Fleur Alley,9/24/2022,3:57,3
+575,6165 Atwood Drive,9/29/2022,15:27,56
+576,61 Aberg Park,9/24/2022,13:40,68
+577,6 Hintze Parkway,9/23/2022,0:00,68
+578,56 Heath Alley,9/24/2022,3:37,58
+579,9 Lukken Hill,9/21/2022,12:42,58
+580,34 Stephen Trail,9/27/2022,3:56,99
+581,56 Fieldstone Circle,9/25/2022,7:05,98
+582,75 Logan Way,9/28/2022,13:42,17
+583,6 Walton Way,9/22/2022,1:30,97
+584,53580 Tennessee Pass,9/23/2022,9:54,69
+585,25 Algoma Plaza,9/27/2022,17:40,70
+586,8 North Junction,9/28/2022,14:29,20
+587,79 Dwight Road,9/29/2022,8:26,89
+588,1558 Fairview Street,9/28/2022,8:54,62
+589,1394 Upham Street,9/26/2022,7:24,61
+590,7 Superior Street,9/25/2022,5:30,44
+591,4 Alpine Street,9/28/2022,20:14,93
+592,5861 Farragut Parkway,9/21/2022,7:56,24
+593,5084 Reinke Pass,9/26/2022,0:03,89
+594,2208 Division Circle,9/29/2022,17:06,51
+595,529 Hollow Ridge Circle,9/28/2022,5:06,15
+596,15354 Bunker Hill Alley,9/22/2022,16:04,29
+597,356 International Hill,9/23/2022,9:20,81
+598,4481 Brentwood Junction,9/26/2022,1:35,13
+599,80 Luster Avenue,9/25/2022,14:15,89
+600,8852 New Castle Road,9/28/2022,17:17,82
+601,55964 Sullivan Junction,9/24/2022,14:16,13
+602,894 Continental Street,9/27/2022,20:41,52
+603,17265 Del Sol Terrace,9/29/2022,13:11,33
+604,627 Morning Circle,9/25/2022,5:44,93
+605,68113 Carioca Alley,9/26/2022,3:49,99
+606,9 Del Mar Place,9/27/2022,20:59,15
+607,91752 Northridge Park,9/21/2022,10:12,14
+608,73904 Sherman Street,9/27/2022,7:53,30
+609,137 Sachtjen Pass,9/23/2022,3:36,35
+610,1234 Straubel Terrace,9/22/2022,3:51,90
+611,0 Annamark Lane,9/24/2022,12:24,65
+612,10 Annamark Court,9/23/2022,4:10,5
+613,79 Morningstar Plaza,9/22/2022,11:13,74
+614,04367 Hollow Ridge Parkway,9/26/2022,17:52,37
+615,22292 Hallows Drive,9/24/2022,5:24,92
+616,17 Arrowood Avenue,9/21/2022,14:51,79
+617,81 Badeau Drive,9/26/2022,8:42,52
+618,5 Dexter Avenue,9/26/2022,2:59,70
+619,48481 Luster Place,9/27/2022,11:10,58
+620,56 Mallory Avenue,9/28/2022,15:50,25
+621,16611 Meadow Valley Circle,9/21/2022,19:40,49
+622,14 Clemons Terrace,9/26/2022,6:11,3
+623,92 Tennessee Court,9/25/2022,0:20,47
+624,02 Warrior Drive,9/28/2022,4:08,74
+625,40 Iowa Parkway,9/27/2022,11:10,33
+626,7 Moulton Park,9/27/2022,19:39,31
+627,9 Hansons Plaza,9/27/2022,12:49,77
+628,4247 Graceland Avenue,9/29/2022,10:08,23
+629,51 Tennessee Parkway,9/24/2022,12:39,88
+630,89 Toban Way,9/25/2022,12:23,98
+631,49 Twin Pines Road,9/27/2022,0:18,3
+632,21 Milwaukee Alley,9/29/2022,23:58,39
+633,33 Marcy Drive,9/29/2022,2:09,85
+634,756 Nevada Court,9/26/2022,13:43,46
+635,287 Northview Plaza,9/24/2022,2:38,11
+636,8 Eggendart Court,9/23/2022,8:11,48
+637,65251 Myrtle Place,9/22/2022,20:58,97
+638,1414 Corscot Pass,9/29/2022,17:23,17
+639,52352 Crescent Oaks Junction,9/23/2022,11:47,81
+640,8912 Tennyson Junction,9/23/2022,17:22,62
+641,5232 Sachtjen Hill,9/21/2022,6:12,39
+642,3454 Eggendart Road,9/23/2022,2:13,94
+643,1 North Junction,9/28/2022,16:14,34
+644,641 Johnson Court,9/26/2022,9:29,90
+645,34 Porter Circle,9/28/2022,19:01,70
+646,0 Service Way,9/28/2022,22:49,44
+647,683 Di Loreto Circle,9/22/2022,12:23,29
+648,0 Lerdahl Way,9/25/2022,21:41,43
+649,0696 Sundown Lane,9/21/2022,7:01,50
+650,838 Lerdahl Point,9/21/2022,12:46,9
+651,61 Springs Park,9/25/2022,4:44,17
+652,4337 Hanover Court,9/24/2022,2:28,60
+653,72 Barnett Drive,9/29/2022,22:59,90
+654,1815 6th Center,9/27/2022,18:25,60
+655,76 Heffernan Street,9/22/2022,12:44,94
+656,276 Red Cloud Circle,9/29/2022,12:43,96
+657,70444 Comanche Avenue,9/28/2022,21:45,40
+658,87 Sugar Way,9/25/2022,17:52,34
+659,19 Vidon Pass,9/28/2022,9:58,96
+660,163 Goodland Avenue,9/26/2022,19:25,11
+661,3993 Union Road,9/24/2022,19:04,89
+662,03762 Clyde Gallagher Place,9/27/2022,5:07,27
+663,421 Bunker Hill Plaza,9/28/2022,5:06,96
+664,4721 Washington Street,9/21/2022,9:56,62
+665,4 Ridgeview Alley,9/22/2022,23:41,85
+666,0837 Havey Road,9/21/2022,2:54,96
+667,7445 Northland Point,9/29/2022,9:53,13
+668,7392 Continental Street,9/26/2022,18:54,37
+669,3654 Park Meadow Way,9/23/2022,7:04,57
+670,1 Aberg Hill,9/27/2022,22:58,42
+671,8679 Sullivan Junction,9/22/2022,18:53,12
+672,9 Waxwing Park,9/27/2022,1:45,49
+673,26650 Mitchell Lane,9/24/2022,16:58,47
+674,2 Vidon Place,9/26/2022,13:35,2
+675,11 Homewood Street,9/24/2022,6:55,97
+676,94 Mallard Park,9/24/2022,5:33,46
+677,129 Spohn Point,9/29/2022,20:59,66
+678,7 Nancy Place,9/28/2022,12:35,22
+679,65 Westend Place,9/29/2022,7:11,7
+680,31065 Ryan Street,9/25/2022,18:05,79
+681,10798 Crest Line Drive,9/24/2022,18:26,2
+682,4 Vernon Crossing,9/25/2022,21:14,4
+683,729 Sullivan Avenue,9/22/2022,9:15,9
+684,5456 Sachtjen Way,9/29/2022,17:04,99
+685,6 Sunbrook Hill,9/23/2022,16:05,97
+686,441 Moland Park,9/28/2022,0:27,51
+687,17661 Forest Run Terrace,9/23/2022,3:02,76
+688,905 Milwaukee Crossing,9/27/2022,7:07,51
+689,350 Morrow Park,9/28/2022,13:35,43
+690,167 Schiller Way,9/22/2022,15:12,69
+691,76248 Hooker Drive,9/28/2022,10:35,92
+692,916 Dayton Alley,9/28/2022,2:50,32
+693,424 Hayes Avenue,9/23/2022,1:30,1
+694,35418 Leroy Way,9/22/2022,15:38,42
+695,715 Delladonna Hill,9/29/2022,23:41,42
+696,89 Gale Plaza,9/27/2022,18:52,80
+697,744 Erie Point,9/25/2022,15:39,26
+698,57 Macpherson Avenue,9/27/2022,19:56,69
+699,05 Laurel Place,9/27/2022,19:05,88
+700,7 Merry Plaza,9/22/2022,12:17,52
+701,39 Toban Drive,9/29/2022,17:43,44
+702,7 Blackbird Point,9/28/2022,15:16,50
+703,8048 Center Trail,9/29/2022,17:26,89
+704,36 Claremont Alley,9/23/2022,21:59,44
+705,26930 Rockefeller Place,9/22/2022,20:55,66
+706,2032 Hazelcrest Crossing,9/27/2022,0:45,73
+707,04 Main Center,9/27/2022,19:04,95
+708,98 Ilene Plaza,9/21/2022,22:49,8
+709,42066 Union Hill,9/25/2022,5:34,80
+710,7403 David Hill,9/27/2022,15:58,95
+711,41680 Sunfield Plaza,9/23/2022,14:50,11
+712,9616 Upham Terrace,9/23/2022,20:28,91
+713,2 Farmco Point,9/26/2022,2:05,40
+714,065 Gina Drive,9/24/2022,2:15,58
+715,6768 Sloan Park,9/27/2022,15:53,23
+716,69663 Burning Wood Park,9/25/2022,18:47,53
+717,996 Brickson Park Park,9/25/2022,23:23,1
+718,53581 Daystar Crossing,9/27/2022,2:08,14
+719,4420 Buena Vista Avenue,9/27/2022,11:49,24
+720,742 Farwell Lane,9/27/2022,15:35,79
+721,6 Prentice Hill,9/28/2022,16:36,97
+722,5673 Elgar Road,9/23/2022,1:13,3
+723,79 Browning Hill,9/27/2022,18:35,39
+724,545 Tomscot Lane,9/24/2022,22:29,57
+725,8357 Little Fleur Lane,9/28/2022,13:24,98
+726,7 Westerfield Way,9/28/2022,20:40,66
+727,9918 Pleasure Trail,9/29/2022,1:39,98
+728,37260 Vidon Terrace,9/27/2022,8:44,47
+729,56 Buhler Court,9/21/2022,2:50,17
+730,558 Carioca Center,9/26/2022,14:39,84
+731,2951 Crownhardt Point,9/21/2022,15:45,85
+732,63 Bartillon Way,9/25/2022,5:42,12
+733,249 Merrick Plaza,9/23/2022,9:27,71
+734,14972 Gateway Pass,9/21/2022,15:04,64
+735,05 Homewood Pass,9/23/2022,7:02,3
+736,6 Hudson Street,9/27/2022,21:24,85
+737,45 Moulton Court,9/22/2022,7:57,78
+738,551 Quincy Way,9/29/2022,20:40,90
+739,9 Dovetail Park,9/28/2022,10:33,25
+740,6654 Hanover Lane,9/24/2022,16:04,55
+741,6311 Utah Court,9/29/2022,17:08,92
+742,63 Orin Plaza,9/24/2022,20:36,28
+743,177 Stephen Alley,9/24/2022,12:15,76
+744,46 Corben Road,9/22/2022,17:22,7
+745,93526 Blue Bill Park Way,9/22/2022,12:38,95
+746,560 Hanson Avenue,9/21/2022,7:56,10
+747,0 Lawn Point,9/22/2022,11:51,87
+748,38 Morning Way,9/29/2022,19:23,8
+749,4 Ridge Oak Alley,9/22/2022,11:19,11
+750,91 Sutherland Parkway,9/24/2022,21:04,60
+751,8207 Rieder Park,9/27/2022,17:24,78
+752,907 Burning Wood Drive,9/27/2022,7:58,3
+753,3153 Arkansas Drive,9/28/2022,10:44,33
+754,19 Lakewood Gardens Trail,9/26/2022,11:05,22
+755,69 Elgar Terrace,9/27/2022,21:03,6
+756,91 Park Meadow Drive,9/26/2022,19:19,56
+757,69 Bluestem Hill,9/21/2022,16:03,73
+758,3583 Dakota Avenue,9/25/2022,14:23,34
+759,30 Shelley Junction,9/23/2022,22:25,18
+760,1536 Bunting Court,9/21/2022,11:23,44
+761,1342 Arkansas Avenue,9/23/2022,13:48,99
+762,26402 Glendale Pass,9/26/2022,21:57,64
+763,2232 Union Crossing,9/27/2022,15:42,9
+764,41828 Pennsylvania Crossing,9/28/2022,22:40,70
+765,6 Melrose Lane,9/23/2022,16:26,3
+766,5 Darwin Lane,9/26/2022,19:25,33
+767,2796 Cardinal Avenue,9/27/2022,21:39,20
+768,83 Cottonwood Parkway,9/26/2022,15:14,73
+769,81166 Donald Pass,9/24/2022,14:18,3
+770,0 Sullivan Road,9/24/2022,15:09,67
+771,2170 Hermina Pass,9/22/2022,19:51,58
+772,3 Kingsford Parkway,9/25/2022,23:21,74
+773,04904 Banding Point,9/23/2022,4:34,29
+774,3024 Del Mar Pass,9/25/2022,16:56,88
+775,1212 Raven Circle,9/22/2022,15:51,39
+776,7884 Stone Corner Lane,9/26/2022,21:20,95
+777,58 Carey Place,9/28/2022,13:44,17
+778,2241 Banding Point,9/22/2022,18:55,30
+779,08 Kim Court,9/21/2022,7:57,3
+780,94 Coleman Crossing,9/21/2022,19:45,1
+781,418 Bayside Way,9/25/2022,4:04,50
+782,765 Cherokee Terrace,9/26/2022,3:33,83
+783,557 Surrey Point,9/22/2022,7:11,21
+784,824 Ridgeview Parkway,9/22/2022,5:45,15
+785,3 Cardinal Park,9/27/2022,18:58,75
+786,66 Merrick Way,9/21/2022,11:05,30
+787,52553 Gerald Crossing,9/21/2022,2:30,53
+788,28115 Corben Crossing,9/26/2022,21:42,92
+789,10 Acker Street,9/28/2022,21:52,32
+790,8687 Pepper Wood Lane,9/25/2022,8:51,97
+791,008 Anhalt Street,9/28/2022,13:33,52
+792,98317 Hudson Center,9/21/2022,4:23,7
+793,4 Bellgrove Street,9/28/2022,16:49,26
+794,31786 Grover Circle,9/24/2022,16:43,48
+795,05928 Donald Parkway,9/28/2022,14:04,94
+796,42147 Stone Corner Circle,9/21/2022,1:35,89
+797,32 Sheridan Terrace,9/22/2022,12:34,56
+798,50948 Leroy Place,9/23/2022,5:49,40
+799,867 Cascade Center,9/23/2022,15:14,36
+800,9087 Cody Court,9/26/2022,1:18,89
+801,0 Melvin Way,9/23/2022,4:38,95
+802,634 Park Meadow Center,9/23/2022,1:29,56
+803,67019 Ohio Trail,9/26/2022,22:26,99
+804,60041 Algoma Road,9/21/2022,17:38,77
+805,791 Melvin Way,9/23/2022,21:08,13
+806,08495 Towne Plaza,9/24/2022,10:59,23
+807,85 Moland Avenue,9/24/2022,15:15,32
+808,607 Northwestern Circle,9/22/2022,22:17,21
+809,12 Crescent Oaks Way,9/29/2022,16:29,56
+810,75225 Lien Point,9/28/2022,5:13,4
+811,11365 Saint Paul Trail,9/22/2022,1:51,52
+812,1846 Dahle Center,9/24/2022,18:32,42
+813,4498 Bartillon Court,9/21/2022,15:14,23
+814,236 Gulseth Circle,9/23/2022,2:46,13
+815,20260 Ramsey Lane,9/23/2022,9:49,65
+816,286 Hoffman Road,9/21/2022,23:11,51
+817,57283 Lighthouse Bay Point,9/28/2022,2:39,74
+818,1 Center Crossing,9/28/2022,17:16,39
+819,82 Old Gate Pass,9/23/2022,0:59,23
+820,3 Jenna Park,9/21/2022,2:11,93
+821,659 Lakeland Lane,9/21/2022,21:33,11
+822,39 Paget Terrace,9/24/2022,9:17,86
+823,53508 Coolidge Court,9/24/2022,17:57,45
+824,8 Fuller Center,9/28/2022,21:25,79
+825,040 Armistice Center,9/28/2022,23:13,19
+826,46 Northridge Parkway,9/23/2022,14:06,100
+827,8357 Cascade Alley,9/23/2022,19:54,17
+828,465 Emmet Road,9/22/2022,19:39,14
+829,88116 Karstens Trail,9/29/2022,15:49,75
+830,24298 Milwaukee Way,9/25/2022,21:29,26
+831,3 Longview Circle,9/22/2022,3:16,26
+832,22 Melrose Way,9/29/2022,14:44,11
+833,009 Prairie Rose Circle,9/26/2022,2:36,89
+834,8692 Rieder Court,9/22/2022,4:51,91
+835,04851 Grim Pass,9/29/2022,0:55,62
+836,4 Petterle Alley,9/27/2022,10:51,24
+837,83214 Northview Point,9/29/2022,12:57,38
+838,27 Nobel Lane,9/27/2022,12:01,59
+839,71 Cody Point,9/22/2022,5:58,62
+840,9914 Stang Terrace,9/22/2022,21:16,11
+841,644 Village Park,9/25/2022,5:12,66
+842,98 Marcy Street,9/21/2022,21:27,28
+843,712 Lunder Pass,9/27/2022,13:19,43
+844,33899 Dorton Drive,9/27/2022,20:36,47
+845,5 Truax Crossing,9/26/2022,10:25,39
+846,75785 Vera Place,9/23/2022,6:15,45
+847,118 Pennsylvania Trail,9/24/2022,20:28,74
+848,894 Boyd Center,9/26/2022,8:06,95
+849,48835 Truax Pass,9/24/2022,21:50,82
+850,5 Saint Paul Junction,9/28/2022,13:59,16
+851,96267 Haas Alley,9/28/2022,2:31,14
+852,87 Katie Drive,9/26/2022,4:10,42
+853,91 Boyd Plaza,9/26/2022,14:08,12
+854,5051 Dexter Court,9/24/2022,13:34,40
+855,04 Dovetail Point,9/21/2022,8:21,87
+856,5 Clove Hill,9/23/2022,20:20,1
+857,7319 Kipling Point,9/23/2022,3:59,49
+858,855 Golf Course Drive,9/28/2022,12:00,4
+859,7589 Little Fleur Avenue,9/21/2022,15:48,93
+860,44299 Green Ridge Plaza,9/21/2022,17:21,31
+861,240 Caliangt Pass,9/28/2022,5:13,31
+862,70518 Talmadge Terrace,9/21/2022,9:59,71
+863,6 Hoard Court,9/26/2022,6:16,12
+864,67 Dapin Avenue,9/23/2022,5:17,90
+865,158 Del Sol Pass,9/29/2022,17:05,38
+866,607 Sullivan Parkway,9/28/2022,18:20,36
+867,52192 Upham Hill,9/23/2022,17:07,38
+868,5 Oak Valley Place,9/25/2022,8:44,35
+869,37625 Miller Terrace,9/25/2022,16:24,86
+870,5695 5th Way,9/21/2022,14:43,95
+871,7047 Westridge Street,9/21/2022,19:04,11
+872,26494 Evergreen Street,9/21/2022,22:32,26
+873,99831 Northwestern Center,9/22/2022,4:54,25
+874,3 Ryan Junction,9/23/2022,21:27,14
+875,37097 Anniversary Hill,9/27/2022,3:35,63
+876,3 Spenser Alley,9/28/2022,15:13,96
+877,89142 Luster Park,9/22/2022,7:40,61
+878,450 Linden Avenue,9/22/2022,11:10,77
+879,427 Arrowood Pass,9/21/2022,3:43,81
+880,45820 Old Shore Center,9/21/2022,14:39,91
+881,097 Homewood Lane,9/29/2022,0:25,67
+882,325 Independence Place,9/26/2022,23:47,88
+883,27818 Brown Road,9/21/2022,16:28,78
+884,40764 Waxwing Court,9/28/2022,12:28,11
+885,3 Red Cloud Park,9/23/2022,15:01,94
+886,88 Browning Way,9/24/2022,2:17,11
+887,677 Farwell Road,9/25/2022,23:49,38
+888,3 Summer Ridge Road,9/24/2022,12:41,92
+889,38 Colorado Street,9/23/2022,11:03,86
+890,7 Eagle Crest Drive,9/29/2022,16:25,39
+891,9834 Sutteridge Road,9/24/2022,11:46,60
+892,9 Toban Avenue,9/26/2022,20:51,34
+893,7 Evergreen Junction,9/23/2022,16:35,12
+894,55911 Bultman Alley,9/24/2022,10:13,72
+895,0 Anzinger Alley,9/28/2022,9:20,5
+896,16973 Calypso Lane,9/22/2022,13:48,61
+897,29706 Rigney Drive,9/21/2022,4:38,78
+898,8 Ronald Regan Hill,9/28/2022,14:56,6
+899,2 Village Green Road,9/21/2022,12:23,99
+900,3090 Annamark Junction,9/26/2022,23:47,62
+901,646 Birchwood Crossing,9/23/2022,16:49,83
+902,0623 Scofield Center,9/21/2022,19:36,10
+903,630 Park Meadow Parkway,9/28/2022,8:07,3
+904,20775 Brentwood Way,9/25/2022,16:00,96
+905,53 Sycamore Place,9/27/2022,11:19,97
+906,1 Loeprich Junction,9/28/2022,23:43,67
+907,185 Golf Junction,9/22/2022,2:46,32
+908,0524 Lakewood Road,9/21/2022,13:17,86
+909,253 Monica Way,9/25/2022,19:42,31
+910,6 6th Park,9/21/2022,5:14,37
+911,501 Crowley Plaza,9/26/2022,23:58,34
+912,9560 Florence Street,9/27/2022,13:49,32
+913,54 Kensington Way,9/21/2022,5:32,49
+914,65 Fremont Street,9/25/2022,7:40,6
+915,032 Katie Way,9/29/2022,5:59,64
+916,91132 Mandrake Pass,9/22/2022,6:12,79
+917,46 Bunker Hill Road,9/25/2022,17:37,74
+918,2719 Duke Point,9/28/2022,18:48,7
+919,8 Thierer Hill,9/25/2022,13:21,16
+920,7606 Heffernan Plaza,9/28/2022,23:49,96
+921,56602 Haas Hill,9/26/2022,22:30,52
+922,9 Hallows Circle,9/27/2022,21:48,12
+923,46 Muir Alley,9/23/2022,0:49,14
+924,43433 Forest Run Point,9/23/2022,12:44,27
+925,15979 Lighthouse Bay Plaza,9/21/2022,8:49,40
+926,708 Bonner Crossing,9/22/2022,11:11,30
+927,8 1st Alley,9/21/2022,9:02,2
+928,1 Mandrake Trail,9/24/2022,10:17,69
+929,82992 Straubel Way,9/23/2022,19:14,12
+930,060 Crescent Oaks Court,9/22/2022,1:40,73
+931,618 Morrow Drive,9/25/2022,5:29,24
+932,47 Maple Wood Hill,9/25/2022,7:47,17
+933,9215 Shoshone Center,9/22/2022,2:19,14
+934,29 Little Fleur Trail,9/29/2022,9:38,57
+935,5805 Mallory Alley,9/23/2022,3:53,51
+936,65 Meadow Valley Hill,9/21/2022,22:00,66
+937,6 Lunder Trail,9/24/2022,8:54,66
+938,3 Commercial Trail,9/29/2022,22:14,43
+939,4375 Prairie Rose Point,9/29/2022,4:31,72
+940,73 Merrick Alley,9/22/2022,16:14,33
+941,39 Vernon Terrace,9/25/2022,12:48,70
+942,34248 Moland Pass,9/24/2022,11:55,83
+943,3 Hermina Lane,9/25/2022,10:43,79
+944,4961 Express Street,9/22/2022,7:59,64
+945,2 Raven Circle,9/27/2022,10:06,25
+946,4977 Grim Parkway,9/28/2022,17:19,26
+947,4 Johnson Alley,9/28/2022,0:26,48
+948,33165 Arizona Park,9/24/2022,21:57,8
+949,1068 Arapahoe Alley,9/25/2022,5:56,30
+950,87 Rusk Junction,9/26/2022,20:43,74
+951,63533 Arrowood Way,9/29/2022,13:43,13
+952,7 Namekagon Drive,9/29/2022,5:32,71
+953,277 Pawling Terrace,9/29/2022,15:18,44
+954,245 Clove Street,9/21/2022,10:10,37
+955,933 Spenser Point,9/23/2022,21:18,99
+956,2 Arrowood Avenue,9/21/2022,4:29,20
+957,9 Canary Place,9/26/2022,3:42,32
+958,357 Amoth Junction,9/22/2022,12:00,27
+959,81 Erie Street,9/25/2022,21:48,14
+960,731 Huxley Road,9/24/2022,16:47,69
+961,5931 Northfield Alley,9/27/2022,12:40,93
+962,58727 Talmadge Center,9/26/2022,23:12,5
+963,821 Logan Lane,9/28/2022,17:23,2
+964,393 Londonderry Avenue,9/29/2022,18:48,66
+965,93 Onsgard Crossing,9/29/2022,12:37,72
+966,2 Mockingbird Trail,9/23/2022,4:59,44
+967,23 Starling Crossing,9/23/2022,11:48,54
+968,9 Glendale Trail,9/25/2022,21:15,72
+969,5430 Northwestern Pass,9/23/2022,10:19,45
+970,37828 Hoard Park,9/25/2022,12:00,61
+971,0 Barnett Point,9/26/2022,9:12,34
+972,2 Express Alley,9/26/2022,10:14,99
+973,86527 Buell Terrace,9/21/2022,12:47,6
+974,73827 Memorial Alley,9/22/2022,4:31,59
+975,4856 Bashford Way,9/29/2022,6:03,20
+976,8150 Clyde Gallagher Circle,9/23/2022,11:08,45
+977,17949 Summit Place,9/24/2022,21:17,99
+978,38 John Wall Parkway,9/27/2022,0:40,3
+979,361 Badeau Parkway,9/21/2022,11:58,19
+980,755 Anthes Hill,9/22/2022,8:48,84
+981,83809 Express Court,9/28/2022,16:33,22
+982,02 Messerschmidt Alley,9/26/2022,19:05,11
+983,09 Spaight Circle,9/25/2022,20:31,100
+984,01 Alpine Parkway,9/22/2022,15:00,4
+985,936 Susan Trail,9/29/2022,22:53,59
+986,1645 Muir Parkway,9/25/2022,11:51,82
+987,0 Veith Place,9/23/2022,8:54,69
+988,189 Upham Avenue,9/24/2022,20:00,80
+989,7878 Lien Court,9/23/2022,10:24,29
+990,720 Mayer Court,9/29/2022,16:15,79
+991,528 Luster Crossing,9/28/2022,21:55,75
+992,717 8th Pass,9/29/2022,15:29,17
+993,30127 Graceland Court,9/29/2022,19:49,27
+994,9 Spenser Road,9/21/2022,14:21,90
+995,0053 Scott Lane,9/22/2022,22:34,25
+996,3908 Crowley Trail,9/21/2022,23:58,4
+997,8 Kenwood Drive,9/24/2022,1:36,14
+998,779 Pepper Wood Hill,9/25/2022,18:17,7
+999,1608 Holy Cross Court,9/25/2022,8:08,65
+1000,82464 Buell Drive,9/23/2022,10:26,35
