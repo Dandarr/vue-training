@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import Users from './components/Users.vue'
+import Users from './components/UserProfile.vue'
 import UserTable from './components/UserTable.vue'
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'

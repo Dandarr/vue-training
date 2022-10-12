@@ -1,29 +1,19 @@
-<script setup>
+<!-- <script setup>
 import { RouterLink } from "vue-router";
 import { ref } from "vue";
 const show = ref(false);
-</script>
+</script> -->
 <template>
-  <tr>
-    <td scope="row" data-id="{{UserProfile.id}}">{{ UserProfile.id }}</td>
+    <!-- <td scope="row" data-id="{{UserProfile.id}}">{{ UserProfile.id }}</td>
     <td scope="row">{{ UserProfile.name }}</td>
     <td scope="row">{{ UserProfile.email }}</td>
     <td scope="row">{{ UserProfile.address.city }}</td>
     <td scope="row">
       <button @click="$emit('closeButton')" class="closeButton">x</button>
-    </td>
-    <Transition name="bounce">
-      <slot v-if="show">
-      <tr>
-        <td scope="row">{{ UserProfile.website }}</td>
-        <td scope="row">{{ UserProfile.phone }}</td>
-        <td scope="row">{{ UserProfile.address.street }}</td>
-        <td scope="row">{{ UserProfile.address.zipcode }}</td>
-      </tr>
-      </slot>
-    </Transition>
-    <button @click="show = !show">More Details</button>
-  </tr>
+    </td>   -->
+    <td scope="row">{{ UserProfile.phone }}</td>
+    <td scope="row">{{ UserProfile.address.street }}</td>
+    <td scope="row">{{ UserProfile.address.zipcode }}</td>
 </template>
 
 <script>
