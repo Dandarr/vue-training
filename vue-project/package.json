@@ -4,17 +4,18 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "test-unit": "vitest",
     "preview": "vite preview --port 4173",
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
   },
   "dependencies": {
+    "@vitejs/plugin-vue": "^3.1.0",
     "axios": "^0.27.2",
     "pinia": "^2.0.21",
+    "vite": "^3.1.7",
+    "vitest": "^0.24.1",
     "vue": "^3.2.38",
-    "vue-router": "^4.1.5",
-    "vite": "^3.1.1",
-    "@vitejs/plugin-vue": "^3.1.0"
-
+    "vue-router": "^4.1.5"
   },
   "devDependencies": {
     "eslint": "^8.22.0",

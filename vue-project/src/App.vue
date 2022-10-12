@@ -1,35 +1,32 @@
 <template>
-  <div id="app">
-    <UserTable/>
-  </div>
-
+	<div id="app">
+		<UserTable />
+	</div>
 </template>
 
 <script>
-import Users from './components/UserProfile.vue'
-import UserTable from './components/UserTable.vue'
-import { createApp } from 'vue'
-import { createPinia } from 'pinia'
-import App from './App.vue'
-
+//import Users from "./components/UserProfile.vue";
+import UserTable from "./components/UserTable.vue";
+//import { createApp } from 'vue'
+//import { createPinia } from 'pinia'
+//import App from './App.vue'
 
 export default {
-  name: 'app',
-  components: {
-    Users,
-    UserTable
-  }
-}
-
+	name: "app",
+	components: {
+		//Users,
+		UserTable,
+	},
+};
 </script>
 
 <style>
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+	font-family: "Avenir", Helvetica, Arial, sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	text-align: center;
+	color: #2c3e50;
+	margin-top: 60px;
 }
 </style>
