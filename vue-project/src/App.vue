@@ -7,6 +7,7 @@
 <script>
 //import Users from "./components/UserProfile.vue";
 import UserTable from "./components/UserTable.vue";
+import Calendar from "./components/calendar.vue";
 //import { createApp } from 'vue'
 //import { createPinia } from 'pinia'
 //import App from './App.vue'
@@ -15,7 +16,8 @@ export default {
 	name: "app",
 	components: {
 		//Users,
-		UserTable,
+		//UserTable,
+		Calendar,
 	},
 };
 </script>

@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "luxon": "^1.28.0",
+    "vue-datetime": "^1.0.0-beta.14",
+    "vuejs-datepicker": "latest",
+    "weekstart": "^1.1.0"
+  },
+  "name": "vue-training",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dandarr/vue-training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dandarr/vue-training/issues"
+  },
+  "homepage": "https://github.com/Dandarr/vue-training#readme",
+  "description": ""
+}
