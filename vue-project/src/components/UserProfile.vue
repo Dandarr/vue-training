@@ -11,9 +11,11 @@ const show = ref(false);
     <td scope="row">
       <button @click="$emit('closeButton')" class="closeButton">x</button>
     </td>   -->
+	<div>
 	<td scope="row">{{ UserProfile.phone }}</td>
 	<td scope="row">{{ UserProfile.address.street }}</td>
 	<td scope="row">{{ UserProfile.address.zipcode }}</td>
+	</div>
 </template>
 
 <script>

@@ -1,13 +1,13 @@
 <template>
 	<div id="app">
-		<UserTable />
-	</div>
+ 	<user-table/>
+	 </div>
 </template>
 
 <script>
-//import Users from "./components/UserProfile.vue";
+import Users from "./components/UserProfile.vue";
 import UserTable from "./components/UserTable.vue";
-import Calendar from "./components/calendar.vue";
+//import Calendar from "./components/calendar.vue";
 //import { createApp } from 'vue'
 //import { createPinia } from 'pinia'
 //import App from './App.vue'
@@ -16,8 +16,8 @@ export default {
 	name: "app",
 	components: {
 		//Users,
-		//UserTable,
-		Calendar,
+		UserTable,
+		//Calendar,
 	},
 };
 </script>
